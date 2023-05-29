@@ -1,0 +1,8 @@
+{
+  "name": "com.wolffun.wbase.common.storage",
+  "displayName": "WBase.Common.Storage",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/hieplc-wolffun/WBase.Common.Storage/blob/main/README.md",
+  "description": "Save, load game data using Binary Format"
+}
