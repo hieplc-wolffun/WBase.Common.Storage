@@ -1,0 +1,14 @@
+{
+    "name": "WBase.Common.Storage",
+    "rootNamespace": "WBase.Common.Storage",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
